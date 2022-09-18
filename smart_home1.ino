@@ -82,5 +82,5 @@ void loop()
     noTone(6);
     digitalWrite(7, LOW);
   }
-  delay(10); // Delay a little bit to improve simulation performance
+  delay(10); // Delay a little bit to improve simulation performance 
 }
